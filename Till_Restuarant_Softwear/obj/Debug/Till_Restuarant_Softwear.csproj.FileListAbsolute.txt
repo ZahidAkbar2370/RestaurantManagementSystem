@@ -1,0 +1,419 @@
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Database2.mdf
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Database2_log.ldf
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Till_Software_Database.mdf
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Till_Software_Database_log.ldf
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe.config
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe.manifest
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.application
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.pdb
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\zxing.dll
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\AForge.Video.dll
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Customer.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Delivery_Boy.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Employee.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Expenses_Tracking.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Item_Menu.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Menu_Category.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Other_Contact.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Stock.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Table.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_User.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Vendor.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Admin_Page.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Barcode.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Change_Password.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Check_Sales.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Dashboard.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Delivery_Customer.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Excel_Sheet_Import.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.ForgetPassword.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Forget_Email_Password.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Form1.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Help.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Issue_Stock.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Kitchen_Management_System.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Kitchen_Management_System_Control.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Login_Page.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Notification_Alert.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Point_Of_Sale.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Properties.Resources.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Registration_New_Restaurant.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Reports.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Reprint_Form.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Select_Table.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Select_Waiter.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Service_Tax.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_All_Sale.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Customer.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Delivery_Boy.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Employee.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Expenses_Tracking.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Item_Menu.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_MenuCategory.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Other_Contact.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Purchase_Stock_History.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Stock.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Table_Management.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_User.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Vendor_Management.resources
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.GenerateResource.cache
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.CoreCompileInputs.cache
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.exe.manifest
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.application
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.CopyComplete
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.exe
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.pdb
+C:\Users\Nouman\Documents\Visual Studio 2017\Projects\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csprojAssemblyReference.cache
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Database2.mdf
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Database2_log.ldf
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Till_Software_Database.mdf
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Till_Software_Database_log.ldf
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe.config
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe.manifest
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.application
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.pdb
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\System.Net.Http.dll
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\bin\Debug\System.Net.Http.xml
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csprojResolveAssemblyReference.cache
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Customer.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Delivery_Boy.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Employee.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Expenses_Tracking.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Item_Menu.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Menu_Category.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Other_Contact.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Stock.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Table.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_User.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Vendor.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Admin_Page.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Barcode.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Change_Password.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Check_Sales.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Dashboard.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Delivery_Customer.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Excel_Sheet_Import.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.ForgetPassword.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Forget_Email_Password.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Form1.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Help.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Issue_Stock.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Kitchen_Management_System.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Kitchen_Management_System_Control.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Login_Page.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Notification_Alert.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Point_Of_Sale.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Properties.Resources.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Registration_New_Restaurant.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Reports.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Reprint_Form.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Select_Table.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Select_Waiter.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Service_Tax.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_All_Sale.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Customer.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Delivery_Boy.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Employee.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Expenses_Tracking.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Item_Menu.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_MenuCategory.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Other_Contact.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Purchase_Stock_History.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Stock.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Table_Management.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_User.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Vendor_Management.resources
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.GenerateResource.Cache
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.exe.manifest
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.application
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.exe
+C:\Users\m.owais\Desktop\Till_Restuarant_Softwear\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.pdb
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.pdb
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\bin\Debug\Database2.mdf
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\bin\Debug\Database2_log.ldf
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\bin\Debug\Till_Software_Database.mdf
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\bin\Debug\Till_Software_Database_log.ldf
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe.config
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe.manifest
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.application
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\bin\Debug\zxing.dll
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\bin\Debug\AForge.Video.dll
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Customer.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Delivery_Boy.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Employee.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Expenses_Tracking.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Item_Menu.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Menu_Category.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Other_Contact.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Stock.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Table.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_User.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Vendor.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Admin_Page.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Barcode.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Change_Password.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Check_Sales.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Dashboard.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Delivery_Customer.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Excel_Sheet_Import.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.ForgetPassword.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Forget_Email_Password.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Form1.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Help.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Issue_Stock.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Kitchen_Management_Seprate_System.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Kitchen_Management_System.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Kitchen_Management_System_Control.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Login_Page.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Notification_Alert.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Point_Of_Sale.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Properties.Resources.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Registration_New_Restaurant.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Reports.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Reprint_Form.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Select_Table.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Select_Waiter.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Service_Tax.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_All_Sale.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Customer.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Delivery_Boy.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Employee.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Expenses_Tracking.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Item_Menu.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_MenuCategory.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Other_Contact.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Purchase_Stock_History.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Stock.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Table_Management.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_User.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Vendor_Management.resources
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.GenerateResource.cache
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.CoreCompileInputs.cache
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.exe.manifest
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.application
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.CopyComplete
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.exe
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.pdb
+C:\Users\Nouman\Downloads\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csprojAssemblyReference.cache
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csprojAssemblyReference.cache
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Customer.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Delivery_Boy.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Employee.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Expenses_Tracking.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Item_Menu.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Menu_Category.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Other_Contact.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Stock.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Table.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_User.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Vendor.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Admin_Page.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Barcode.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Change_Password.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Check_Sales.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Dashboard.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Delivery_Customer.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Excel_Sheet_Import.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.ForgetPassword.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Forget_Email_Password.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Form1.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Help.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Issue_Stock.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Kitchen_Management_Seprate_System.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Kitchen_Management_System.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Kitchen_Management_System_Control.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Login_Page.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Notification_Alert.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Point_Of_Sale.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Properties.Resources.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Registration_New_Restaurant.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Reports.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Reprint_Form.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Select_Table.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Select_Waiter.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Service_Tax.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_All_Sale.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Customer.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Delivery_Boy.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Employee.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Expenses_Tracking.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Item_Menu.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_MenuCategory.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Other_Contact.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Purchase_Stock_History.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Stock.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Table_Management.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_User.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Vendor_Management.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.GenerateResource.cache
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.CoreCompileInputs.cache
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.exe
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.pdb
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Database2.mdf
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Database2_log.ldf
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Software_Database.mdf
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Software_Database_log.ldf
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe.config
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe.manifest
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.application
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.pdb
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\AForge.Video.dll
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.exe.manifest
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.application
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.CopyComplete
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Interop.WMPLib.dll
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Interop.WMPLib.dll
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.ResolveComReference.cache
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Send_Email.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Database2.mdf
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Database2_log.ldf
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Software_Database.mdf
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Software_Database_log.ldf
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe.config
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe.manifest
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.application
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.pdb
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\AForge.Video.dll
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Interop.WMPLib.dll
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csprojAssemblyReference.cache
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Interop.WMPLib.dll
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.ResolveComReference.cache
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Customer.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Delivery_Boy.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Employee.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Expenses_Tracking.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Item_Menu.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Menu_Category.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Other_Contact.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Stock.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Table.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_User.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Vendor.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Admin_Page.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Barcode.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Change_Password.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Check_Sales.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Dashboard.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Delivery_Customer.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Excel_Sheet_Import.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.ForgetPassword.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Forget_Email_Password.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Form1.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Help.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Issue_Stock.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Kitchen_Management_Seprate_System.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Kitchen_Management_System_Control.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Login_Page.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Notification_Alert.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Point_Of_Sale.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Properties.Resources.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Registration_New_Restaurant.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Reports.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Select_Table.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Select_Waiter.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Send_Email.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Service_Tax.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_All_Sale.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Customer.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Delivery_Boy.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Employee.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Expenses_Tracking.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Item_Menu.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_MenuCategory.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Other_Contact.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Purchase_Stock_History.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Stock.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Table_Management.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_User.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Vendor_Management.resources
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.GenerateResource.cache
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.CoreCompileInputs.cache
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.exe.manifest
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.application
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.CopyComplete
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.exe
+C:\Users\mudas\Downloads\Code_Till_Restaurant_System (2)\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.pdb
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Database2.mdf
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Database2_log.ldf
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Software_Database.mdf
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Software_Database_log.ldf
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe.config
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe.manifest
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.application
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.exe
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Till_Restuarant_Softwear.pdb
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\Interop.WMPLib.dll
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\AxInterop.WMPLib.dll
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Interop.WMPLib.dll
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\AxInterop.WMPLib.dll
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.ResolveComReference.cache
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Customer.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Delivery_Boy.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Employee.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Expenses_Tracking.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Item_Menu.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Menu_Category.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Other_Contact.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Stock.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Table.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_User.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Add_Vendor.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Admin_Page.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Barcode.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Change_Password.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Check_Sales.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Dashboard.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Delivery_Customer.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Excel_Sheet_Import.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.ForgetPassword.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Forget_Email_Password.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Form1.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Help.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Issue_Stock.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Kitchen_Management_Seprate_System.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Kitchen_Management_System_Control.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Login_Page.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Notification_Alert.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Point_Of_Sale.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Properties.Resources.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Registration_New_Restaurant.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Reports.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Select_Table.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Select_Waiter.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Send_Email.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Service_Tax.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_All_Sale.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Customer.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Delivery_Boy.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Employee.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Expenses_Tracking.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Item_Menu.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_MenuCategory.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Other_Contact.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Purchase_Stock_History.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Stock.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Table_Management.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_User.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.View_Vendor_Management.resources
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.GenerateResource.cache
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.CoreCompileInputs.cache
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.exe.manifest
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.application
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.csproj.CopyComplete
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.exe
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.pdb
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\bin\Debug\WhatsAppApi.dll
+E:\Code_Till_Restaurant_System\Till_Restuarant_Softwear\obj\Debug\Till_Restuarant_Softwear.Send_Whatsapp_Msg.resources
